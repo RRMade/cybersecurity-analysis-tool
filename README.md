@@ -37,3 +37,9 @@ Open, In Progress, and Resolved.
 
 ## Author
 RAJWINDER - Cybersecurity course project
+
+
+## Usage
+Run the log analysis script with:
+`python log_analysis.py`
+It prints the number of failed login attempts found in sample.log.
